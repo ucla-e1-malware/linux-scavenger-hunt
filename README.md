@@ -92,4 +92,4 @@ Finally we need to be able to look at our clues. We can do this by doing:
 This displays the conte of the file `clue` in your terminal. From now on, everything we need
 will be contained in these clue files. It's a good idea to keep track of
 all the clue numbers (like `12345`) somewhere, such as on a piece of paper
-or in a digital note somewhere. Read this clue to continue!
+or in a digital note somewhere. Read clue `12345` to continue!
