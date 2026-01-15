@@ -61,3 +61,7 @@ Read the man page for `mv` and find an
 option to prevent overwriting. That option is your next hint.
 
 Note: use the shorthand version of the option - it should be a single letter.
+
+As a reminder, use the next_clue.py file to continue! For example, if the option was -a, run
+
+    python next_clue.py 5 a
