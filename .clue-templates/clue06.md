@@ -16,4 +16,4 @@ in the `/bin/` directory. `which` itself is a program so you could try:
 #### Finding Clue 7 ####
 
 `python` is a program we have been using to generate and test our clues. Your 
-next hint is the location of the `python` program.
+next hint is the full path of the `python` program, e.g. `/usr/local/python`. 
